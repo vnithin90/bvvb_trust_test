@@ -38,7 +38,7 @@ export default function Home() {
       about: {
         tag: "Our Foundation",
         title: "A Sacred Legacy of Two Centuries",
-        desc: "The Brahmashri Valiveru VenkataRama Bhotulu Trust has been established to systematically manage, maintain, and develop the sacred Jeeva Samadhi (Brindavan) at Parnapalle. Founded and administered by the present 6th generation descendants of the revered saint, the Trust is committed to preserving the sanctity of this holy shrine and promoting Sanatana Dharma for the benefit of devotees and seekers.",
+        desc: "The Brahmashri Valiveru VenkataRama Bhotulu Trust is dedicated to the care and preservation of the sacred Jeeva Samadhi (Brindavan) at Parnapalle, nurturing its spiritual heritage and fostering the values of Sanatana Dharma. Established and administered by the 6th generation descendants of the revered saint, the Trust serves devotees and seekers with a commitment to continuity, devotion, and service.",
         historyLink: "📜 Read the full history of the Saint and the Temple →",
         heritageTitle: "Sacred Heritage",
         heritageDesc: "More than 200 years ago, Brahmashri Valiveru VenkataRama Bhotlu, a realized spiritual luminary, attained Jeeva Samadhi at this holy site. In reverence to the great saint, Sri Omkareswara Swamy Temple was established above the sacred Brindavan — a powerful centre of Shiva worship, meditation, and living spiritual heritage.",
@@ -114,7 +114,7 @@ export default function Home() {
       about: {
         tag: "మా పునాది",
         title: "రెండు శతాబ్దాల పవిత్ర వారసత్వం",
-        desc: "పార్నపల్లిలోని పవిత్ర జీవ సమాధి (బృందావనం) మరియు దానిపై వెలసిన శ్రీ ఓంకారేశ్వర స్వామి బాణలింగం యొక్క ఆధ్యాత్మిక ఉన్నతికి ఈ ట్రస్ట్ కట్టుబడి ఉంది. బ్రహ్మశ్రీ వలివేరు వేంకటరామా భొట్లు గారి ఆరవ తరపు వారసులచే ఈ క్షేత్రం అత్యంత నిష్ఠతో నిర్వహించబడుతోంది. సనాతన ధర్మ ప్రచారానికి మరియు భక్తుల, ముముక్షువుల శ్రేయస్సుకు ఈ సంస్థ అంకితం చేయబడింది.",
+        desc: "పార్నపల్లెలోని పవిత్ర జీవ సమాధి (బృందావనం) యొక్క పరిరక్షణ మరియు నిర్వహణకు అంకితమైన బ్రహ్మశ్రీ వలివేరు వెంకటరామ భొట్లుల ట్రస్ట్, ఈ ఆధ్యాత్మిక వారసత్వాన్ని పోషిస్తూ, సనాతన ధర్మ విలువలను అభివృద్ధి చేయడానికి కట్టుబడి ఉంది. ఈ ట్రస్ట్‌ను మహనీయుల 6వ తరపు వారసులు భక్తి మరియు బాధ్యతతో నిర్వహిస్తూ, భక్తులు మరియు ఆధ్యాత్మిక సాధకుల సేవలో నిమగ్నమై ఉన్నారు.",
         historyLink: "📜 సాధువు మరియు ఆలయం యొక్క పూర్తి చరిత్రను చదవండి →",
         heritageTitle: "పవిత్ర వారసత్వం",
         heritageDesc: "200 సంవత్సరాల కంటే పూర్వం, బ్రహ్మశ్రీ వలివేరు వేంకటరామా భొట్లు గారు ఈ పవిత్ర స్థలంలో జీవ సమాధి పొందారు. ఈ మహనీయుని స్మృత్యర్థం, దివ్యమైన బృందావనంపై శ్రీ ఓంకారేశ్వర స్వామి ఆలయం వెలసింది. ఇది నేటికీ భక్తులకు శివారాధనలో మరియు ఆధ్యాత్మిక సాధనలో ఒక శక్తివంతమైన కేంద్రంగా విరాజిల్లుతోంది.",
