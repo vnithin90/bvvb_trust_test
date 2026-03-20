@@ -232,8 +232,7 @@ export default function Home() {
               <cite style={{ fontWeight: 'normal', fontStyle: 'normal', fontSize: '1.1rem', opacity: 0.9 }}>
                 {t[lang].hero.meaning1}
                 <br />
-                {t[lang].hero.meaning2}
-              </cite>
+                </cite>
             </blockquote>
 
             <h2 className="hero-welcome" style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.8rem' : '1.5rem', marginTop: '30px' }}>{t[lang].hero.welcome}</h2>
