@@ -229,7 +229,6 @@ export default function Home() {
             <blockquote className="hero-shloka">
               <p style={{ fontSize: lang === 'te' ? '1.5rem' : '1.3rem', marginBottom: '10px' }}>{t[lang].hero.shloka1}</p>
               <p style={{ fontSize: lang === 'te' ? '1.5rem' : '1.3rem', marginBottom: '10px' }}>{t[lang].hero.shloka1_caption}</p>
-              <p style={{ fontSize: lang === 'te' ? '1.5rem' : '1.3rem', marginBottom: '20px' }}>{t[lang].hero.shloka2}</p>
               <cite style={{ fontWeight: 'normal', fontStyle: 'normal', fontSize: '1.1rem', opacity: 0.9 }}>
                 {t[lang].hero.meaning1}
                 <br />
