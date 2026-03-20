@@ -24,7 +24,7 @@ export default function Home() {
   const t = {
     en: {
       trustName: "Brahmashri Valiveru VenkataRama Bhotlu Trust",
-      motto: "Guru Kripa • Shiva Anugraha • Atmonnati",
+      motto: "Shiva Anugraha • Guru Krupa • Atmonnati",
       nav: { home: 'Home', about: 'About', programs: 'Programs', events: 'Events', contact: 'Contact', donate: 'Donate' },
       hero: {
         shloka1: "“दुर्लभं त्रयमेवैतद्देवानुग्रहहेतुकम् । मनुष्यत्वं मुमुक्षुत्वं महापुरुषसंश्रयः ॥”",
