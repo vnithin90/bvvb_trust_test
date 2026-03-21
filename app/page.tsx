@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
-import logo from '../images/logo_background_removed.png';
+import logo from '../images/06 - LOGO - IMG.jpg'; // కొత్త లోగో ఇమేజ్‌తో అప్‌డేట్ చేయబడింది
 import mainTemple1 from '../images/main_temple_1.jpeg';
 
 export default function Home() {
@@ -93,7 +93,7 @@ export default function Home() {
         regNo: "Reg. No.: 13/2026",
         quickLinksTitle: "Quick Links",
         connectTitle: "Connect With Us",
-        copyright: "© 2026 Brahmasri Valiveru VenkataRama Bhotulu Trust. All rights reserved.",
+        copyright: "© 2026 Brahmasri Valiveru VenkataRama Bhotlu Trust. All rights reserved.",
         privacy: "Privacy Policy",
         terms: "Terms of Service"
       }
@@ -202,7 +202,15 @@ export default function Home() {
       <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
         <div className="nav-content">
           <div className="logo">
-            <Image src={logo} alt="Logo" width={60} height={60} className="logo-image" style={{borderRadius: '100%', objectFit: 'cover' ,mixBlendMode: 'multiply'}} />
+            {/* లోగో సైజు 120x120 కి పెంచబడింది మరియు contain ఉపయోగించబడింది */}
+            <Image 
+              src={logo} 
+              alt="Logo" 
+              width={120} 
+              height={120} 
+              className="logo-image" 
+              style={{ borderRadius: '100%', objectFit: 'contain', mixBlendMode: 'multiply' }} 
+            />
             <div className="logo-text">
               <span className="logo-main" style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.4rem' : '1.3rem' }}>{t[lang].trustName}</span>
               <span className="logo-sub" style={{ fontSize: lang === 'te' ? '1.1rem' : '0.85rem', lineHeight: '1.2' }}>{t[lang].motto}</span>
@@ -415,7 +423,6 @@ export default function Home() {
           <div className="footer-col">
             <h4 style={{ ...currentHeaderFont, color: 'white', marginBottom: '20px' }}>{t[lang].footer.connectTitle}</h4>
             <div className="social-icons" style={{ display: 'flex', gap: '15px' }}>
-               {/* Placeholders for social icons as seen in the image */}
                {['FB', 'IG', 'X', 'YT', 'IN'].map(icon => (
                  <div key={icon} style={{ width: '35px', height: '35px', borderRadius: '50%', background: 'rgba(255,255,255,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '0.8rem', cursor: 'pointer' }}>{icon}</div>
                ))}
