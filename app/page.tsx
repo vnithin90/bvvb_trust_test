@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
-import logo from '../images/06 - LOGO - IMG.jpg'; // కొత్త లోగో ఇమేజ్‌తో అప్‌డేట్ చేయబడింది
+import logo from '../images/LOGO_HQ.png'; // కొత్త లోగో ఇమేజ్‌తో అప్‌డేట్ చేయబడింది
 import mainTemple1 from '../images/main_temple_1.jpeg';
 
 export default function Home() {
