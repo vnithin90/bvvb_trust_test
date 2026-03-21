@@ -178,13 +178,13 @@ export default function History() {
                 <p>Smt. Chayamma passed away on Monday, April 9, 1951, taking her pasupu-kuṅkuma with her. Following her departure, Sri Venkataramayya increasingly immersed himself in spiritual contemplation.</p>
                 <p>During this time, he was blessed with the grace of the revered jagadguru of the Kanchi Kamakoti Peetham, Sri Sri Sri Chandrasekharendra Saraswati (Periyava), regarded as a living embodiment of Adi Shankara. He had the rare fortune of serving at the ācārya’s feet, partaking in meals in his presence (ānanda-paṅkti-bhojana), and receiving the śeṣa-vastra (the cloth worn by the Acharya) and the pādukās (sanctified sandals) used by him as sacred Prasāda.</p>
                 <p>When the ācārya suggested that he accept Sannyāsa, he humbly declined to fulfill his responsibilities as a householder (gṛhastha). While his four sons settled in Hyderabad, he remained in Parnapalli to uphold his dhārmic customs. His fourth son and daughter-in-law remained to serve him until the end.</p>
-                <p className="highlight-quote">At the age of 81, while chanting "Sri Rama," he offered himself to the feet of the Lord on Monday, November 5, 1973.</p>
+                <p className="highlight-quote">At the age of 78, while chanting "Sri Rama," he offered himself to the feet of the Lord on Monday, November 5, 1973.</p>
               </div>
             ) : (
               <div>
                 <p>కీ.శే. కుం.సౌ. ఛాయమ్మ గారు ఐదు మంది మగసంతానమును పొంది తరువాత కొలది సంవత్సరములలోనే పసుపు కుంకుమలను వెంటనిడుకొని తాడిమర్రి గ్రామమునందు ఖర నామ సంవత్సర చైత్ర శుద్ధ తదియ సోమవారము అనగా 1951 ఏప్రిల్ 9 తారీకు చివరి శ్వాసను వదిలిరి. తదనంతరము కీ.శే వేంకటరామయ్య గారు ఆధ్యాత్మిక సాధనలో కొనసాగించిరి.</p>
                 <p>ఈ కాలమందే శ్రీ కాంచీపుర పీఠాధీశ్వరులు శ్రీశ్రీశ్రీ చంద్రశేఖరేంద్ర సరస్వతి (పెరియావ) యాతీంద్రుల పాదసేవయు, ఆనందపంక్తి భోజనము, ప్రసాదముగా ఆయన ధరించిన పాదుకలను పొందిరి. శ్రీ స్వామి వారు సన్యాశాశ్రమమును గైకొనుమని అడుగగా తన ఐదవ కొడుకు వివాహము కాలేదని సుతిమెత్తగా సమాధానమిడిరి.</p>
-                <p>ఆయన నాలుగవ కుమారుడు తండ్రి, మేనత్తల సేవార్థము బడిపంతులు వృత్తిని చేపట్టి పార్లపల్లె కుగ్రామమునందే ఉండి చివరి వరకు ఆ భార్యాభర్తలు సేవించి ధన్యులైనారు. ఆయన తన 81 సంవత్సరముల వయస్సులో "శ్రీరామ" నామము జపిస్తూ ప్రమాదీచ నామ సంవత్సర కార్తీక శుద్ధ ఏకాదశి సోమవారము అనగా 1973 నవంబరు 5 వ తారీకు శ్రీరామచంద్రుని పాదపద్మములకు తనను తాను సమర్పణము చేసుకొన్నారు.</p>
+                <p>ఆయన నాలుగవ కుమారుడు తండ్రి, మేనత్తల సేవార్థము బడిపంతులు వృత్తిని చేపట్టి పార్లపల్లె కుగ్రామమునందే ఉండి చివరి వరకు ఆ భార్యాభర్తలు సేవించి ధన్యులైనారు. ఆయన తన 78 సంవత్సరముల వయస్సులో "శ్రీరామ" నామము జపిస్తూ ప్రమాదీచ నామ సంవత్సర కార్తీక శుద్ధ ఏకాదశి సోమవారము అనగా 1973 నవంబరు 5 వ తారీకు శ్రీరామచంద్రుని పాదపద్మములకు తనను తాను సమర్పణము చేసుకొన్నారు.</p>
               </div>
             )}
           </section>
