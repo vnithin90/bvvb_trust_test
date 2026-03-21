@@ -23,7 +23,7 @@ export default function Home() {
 
   const t = {
     en: {
-      trustName: "Brahmashri Valiveru VenkataRama Bhotlu Trust",
+      trustName: "Brahmasri Valiveru VenkataRama Bhotlu Trust",
       motto: "Shiva Anugraha • Guru Krupa • Atmonnati",
       nav: { home: 'Home', about: 'About', programs: 'Programs', events: 'Events', contact: 'Contact', donate: 'Donate' },
       hero: {
@@ -31,17 +31,17 @@ export default function Home() {
         shloka1_caption: "— विवेकचूडामणि",
         meaning1: "Three things are rare and due to the grace of God: human birth, longing for liberation, and the refuge of a great soul.",
         welcome: "Welcome to",
-        desc1: "Centered around the divine Jeeva Samadhi (Brindavan) of the revered saint Brahmashri Valiveru Venkatarama Bhotlu, this sacred site in Parnapalle is graced by the Sri Omkareswara Swamy Banalinga, established directly upon the saint's eternal presence to bless all devotees and seekers.",
+        desc1: "Centered around the divine Jeeva Samadhi (Brindavan) of the revered saint Brahmasri Valiveru Venkatarama Bhotlu, this sacred site in Parnapalle is graced by the Sri Omkareswara Swamy Banalinga, established directly upon the saint's eternal presence to bless all devotees and seekers.",
         btnHistory: "Explore Our Sacred History",
         btnLearn: "Learn More"
       },
       about: {
         tag: "Our Foundation",
         title: "A Sacred Legacy of Two Centuries",
-        desc: "The Brahmashri Valiveru VenkataRama Bhotulu Trust is dedicated to the care and preservation of the sacred Jeeva Samadhi (Brindavan) at Parnapalle, nurturing its spiritual heritage and fostering the values of Sanatana Dharma. Established and administered by the 6th generation descendants of the revered saint, the Trust serves devotees and seekers with a commitment to continuity, devotion, and service.",
+        desc: "The Brahmasri Valiveru VenkataRama Bhotulu Trust is dedicated to the care and preservation of the sacred Jeeva Samadhi (Brindavan) at Parnapalle, nurturing its spiritual heritage and fostering the values of Sanatana Dharma. Established and administered by the 6th generation descendants of the revered saint, the Trust serves devotees and seekers with a commitment to continuity, devotion, and service.",
         historyLink: "📜 Read the full history of the Saint and the Temple →",
         heritageTitle: "Sacred Heritage",
-        heritageDesc: "More than 200 years ago, Brahmashri Valiveru VenkataRama Bhotlu, a realized spiritual luminary, attained Jeeva Samadhi at this holy site. In reverence to the great saint, Sri Omkareswara Swamy Temple was established above the sacred Brindavan — a powerful centre of Shiva worship, meditation, and living spiritual heritage.",
+        heritageDesc: "More than 200 years ago, Brahmasri Valiveru VenkataRama Bhotlu, a realized spiritual luminary, attained Jeeva Samadhi at this holy site. In reverence to the great saint, Sri Omkareswara Swamy Temple was established above the sacred Brindavan — a powerful centre of Shiva worship, meditation, and living spiritual heritage.",
         visionTitle: "Vision",
         visionDesc: "To develop Sri Omkareswara Swamy Temple into a vibrant spiritual, cultural, and charitable centre serving devotees and seekers at large.",
         missionTitle: "Mission",
@@ -93,7 +93,7 @@ export default function Home() {
         regNo: "Reg. No.: 13/2026",
         quickLinksTitle: "Quick Links",
         connectTitle: "Connect With Us",
-        copyright: "© 2026 Brahmashri Valiveru VenkataRama Bhotulu Trust. All rights reserved.",
+        copyright: "© 2026 Brahmasri Valiveru VenkataRama Bhotulu Trust. All rights reserved.",
         privacy: "Privacy Policy",
         terms: "Terms of Service"
       }
