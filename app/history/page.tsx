@@ -137,7 +137,7 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Parnapalli is a village situated on the banks of the Chitravati River in Pulivendula taluk of Kadapa district, Andhra Pradesh. In this village lived the late Sri Venkataramayya, a brāhmaṇa of the śrotriya, vaidika, and velanāṭi tradition belonging to the gautama-gotra, bearing the family name Valiveru. A learned Vedic scholar and ritual practitioner, he sustained his family through traditional village priesthood (grāma-pauhitya).</p>
+                <p>Parnapalli is a village situated on the banks of the Chitravati River in Pulivendula taluk of Kadapa district, Andhra Pradesh. In this village lived the late Sri Venkataramayya, a brāhmaṇa of the śrotriya, vaidika, and velanāṭi tradition belonging to the gautama-gotra, bearing the family name Valiveru. A learned Vedic scholar and ritual practitioner, he sustained his family through traditional village priesthood.</p>
                 <p>The family deity (gṛha-daiva) of the Valiveru household is Sri Lakshmi Narasimha Swamy of Doddadalavatam (Madhugiri taluk, Karnataka). At the same time, the worship of Sri Ramachandra Murthy as the cherished iṣṭa-daiva has long been a continuing tradition within the family.</p>
                 <p>Sri Venkataramayya and his dharmapatni Smt. Chayamma were blessed with five sons and no daughters. He had two elder sisters — Smt. Chennakishtamma and Smt. Sheshamma — and a younger brother, Sri Narasayya. In the course of time, Sri Narasayya was adopted as the son of his paternal uncle, Sri Sitaramayya.</p>
               </div>
@@ -156,8 +156,8 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Sri Venkataramayya lived a life of simplicity and contentment despite material poverty. Having studied the vedās thoroughly (sāṅgopāṅga), he upheld the principles of sanātana-dharma with sincerity and discipline. He performed trikāla-sandhyā, morning pañcāyatana-pūjā, and abhiṣeka with total devotion.</p>
-                <p>During the afternoons, he would sit on the front verandah (*arugu*) of his home and recite the *Bhārata*, *Bhāgavata*, *Rāmāyaṇa*, and other sacred texts, explaining their teachings to the villagers. His home was always open to guests (atithi); in those days, many wandering monks and holy men (mahātmās) travelled on foot through the region, and several among them would stay for days in his home and receive his hospitality.</p>
+                <p>Sri Venkataramayya lived a life of simplicity and contentment despite material poverty. Having studied the vedās thoroughly, he upheld the principles of sanātana-dharma with sincerity and discipline. He performed trikāla-sandhyā, morning pañcāyatana-pūjā, and abhiṣeka with total devotion.</p>
+                <p>During the afternoons, he would sit on the front verandah of his home and recite the Mahābhārata, Bhāgavata, Rāmāyaṇa, and other sacred texts, explaining their teachings to the villagers. His home was always open to guests; in those days, many wandering monks and holy men travelled on foot through the region, and several among them would stay for days in his home and receive his hospitality.</p>
                 <p className="highlight-quote">Those who knew him often remarked that there was no vedānta in him that was not lived in practice; his life itself was the teaching.</p>
               </div>
             ) : (
@@ -175,10 +175,10 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Smt. Chayamma passed away on Monday, April 9, 1951 (*khara-nāma-saṃvatsara, caitra-śuddha-tadiya*), taking her pasupu-kuṅkuma with her. Following her departure, Sri Venkataramayya increasingly immersed himself in spiritual contemplation (ādhyātmika-sādhana).</p>
-                <p>During this time, he was blessed with the grace of the revered jagadguru of the Kanchi Kamakoti Peetham, Sri Sri Sri Chandrasekharendra Saraswati (Periyava), regarded as a living embodiment of Adi Shankara. He had the rare fortune of serving at the ācārya’s feet, partaking in meals in his presence (ānanda-paṅkti-bhojana), and receiving the śeṣa-vastra and the pādukās used by him as sacred prasāda.</p>
-                <p>When the ācārya suggested that he accept saṃnyāsa, he humbly declined to fulfill his responsibilities as a householder (gṛhastha). While his four sons settled in Hyderabad, he remained in Parnapalli to uphold his dhārmic customs. His fourth son and daughter-in-law remained to serve him until the end.</p>
-                <p className="highlight-quote">At the age of 81, while chanting "Sri Rama," he offered himself to the feet of the Lord on Monday, November 5, 1973 (*pramādīca-nāma-saṃvatsara, kārtika-śuddha-ekādaśī*).</p>
+                <p>Smt. Chayamma passed away on Monday, April 9, 1951, taking her pasupu-kuṅkuma with her. Following her departure, Sri Venkataramayya increasingly immersed himself in spiritual contemplation.</p>
+                <p>During this time, he was blessed with the grace of the revered jagadguru of the Kanchi Kamakoti Peetham, Sri Sri Sri Chandrasekharendra Saraswati (Periyava), regarded as a living embodiment of Adi Shankara. He had the rare fortune of serving at the ācārya’s feet, partaking in meals in his presence (ānanda-paṅkti-bhojana), and receiving the śeṣa-vastra (the cloth worn by the Acharya) and the pādukās (sanctified sandals) used by him as sacred Prasāda.</p>
+                <p>When the ācārya suggested that he accept Sannyāsa, he humbly declined to fulfill his responsibilities as a householder (gṛhastha). While his four sons settled in Hyderabad, he remained in Parnapalli to uphold his dhārmic customs. His fourth son and daughter-in-law remained to serve him until the end.</p>
+                <p className="highlight-quote">At the age of 81, while chanting "Sri Rama," he offered himself to the feet of the Lord on Monday, November 5, 1973.</p>
               </div>
             ) : (
               <div>
@@ -197,7 +197,7 @@ export default function History() {
             <div className="sibling-cards">
               <div className="sibling-card">
                 <h4 style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.4rem' : '1.2rem' }}>{lang === 'en' ? "Smt. Sheshamma" : "కీ.శే. శేషమ్మ"}</h4>
-                <p>{lang === 'en' ? "Widowed young, she spent her life in her brother's home immersed in the remembrance of Sri Rama. She attained śivaikya (merger with the Divine) on Monday, October 23, 1973 (pramādīca-nāma-saṃvatsara, kārtika-śuddha-tadiya), one week before Venkataramayya." : "చిన్న వయసులోనే వైధవ్యమును పొంది కీ.శే. వేంకటరామయ్య గారి ఇంటియందే చివరి క్షణంవరకు శ్రీరామ చంద్రుల వారి స్మరణ యందే గడిపి కీ.శే. వేంకటరామయ్యగారి కంటే వారం రోజులు ముందు ప్రమాదీచ నామ సంవత్సర కార్తీక శుద్ధ తదియ సోమవారము 1973 అక్టోబరు 23వ తారీకున శివైక్యము చెంది ఉన్నారు."}</p>
+                <p>{lang === 'en' ? "Widowed young, she spent her life in her brother's home immersed in the remembrance of Sri Rama. She attained śivaikya (merger with the Divine) on Monday, October 23, 1973, one week before Venkataramayya." : "చిన్న వయసులోనే వైధవ్యమును పొంది కీ.శే. వేంకటరామయ్య గారి ఇంటియందే చివరి క్షణంవరకు శ్రీరామ చంద్రుల వారి స్మరణ యందే గడిపి కీ.శే. వేంకటరామయ్యగారి కంటే వారం రోజులు ముందు ప్రమాదీచ నామ సంవత్సర కార్తీక శుద్ధ తదియ సోమవారము 1973 అక్టోబరు 23వ తారీకున శివైక్యము చెంది ఉన్నారు."}</p>
               </div>
               <div className="sibling-card">
                 <h4 style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.4rem' : '1.2rem' }}>{lang === 'en' ? "Smt. Kamakshamma" : "కీ.శే. కుం.సౌ. కామాక్షమ్మ"}</h4>
@@ -205,7 +205,7 @@ export default function History() {
               </div>
               <div className="sibling-card">
                 <h4 style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.4rem' : '1.2rem' }}>{lang === 'en' ? "Sri Narasayya" : "కీ.శే. నరసయ్యగారు"}</h4>
-                <p>{lang === 'en' ? "Serving as a government teacher in Dharmavaram, he later settled in Bengaluru. He attained śivaikya on Saturday, October 18, 1986 (akṣaya-nāma-saṃvatsara, āśvayuja-bahula-pāḍyami)." : "లౌకికమునందు అధ్యాపక వృత్తిని చేపట్టి అనంతపురం జిల్లా, ధర్మవరం ప్రభుత్వ పాఠశాలలో పనిచేసి పదవీ విరమణ చేశాక బెంగుళూరులో స్థిరనివాసము ఏర్పరచుకొని 1986 అక్టోబరు 18వ తారీకున శివైక్యము చెంది ఉన్నారు."}</p>
+                <p>{lang === 'en' ? "Serving as a government teacher in Dharmavaram, he later settled in Bengaluru. He attained śivaikya on Saturday, October 18, 1986." : "లౌకికమునందు అధ్యాపక వృత్తిని చేపట్టి అనంతపురం జిల్లా, ధర్మవరం ప్రభుత్వ పాఠశాలలో పనిచేసి పదవీ విరమణ చేశాక బెంగుళూరులో స్థిరనివాసము ఏర్పరచుకొని 1986 అక్టోబరు 18వ తారీకున శివైక్యము చెంది ఉన్నారు."}</p>
               </div>
             </div>
           </section>
@@ -237,8 +237,8 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Sri Lakshmi Narasayya (the fourth son of Sri Venkataramayya) was born on the same sacred day of mārgaśīrṣa-śuddha-vidiyā. During his time, he used his own resources to repair the stone platform (*arugu*) at the samādhi site where farmers would often rest.</p>
-                <p>In 2019, the present generation constructed a new temple and consecrated a narmada-bāṇaliṅgam as Sri Omkareshwara Swamy on Sunday, November 3, 2019 (*vikāri-nāma-saṃvatsara, kārtika-śuddha-saptami*). Since then, it has become a center for anna-santarpaṇa and annual brahmotsavams conducted grandly every year up to 2024 (*krodhi-nāma-saṃvatsara*).</p>
+                <p>Sri Lakshmi Narasayya (the fourth son of Sri Venkataramayya) was born on the same sacred day of mārgaśīrṣa-śuddha-vidiyā. During his time, he used his own resources to repair the stone platform at the samādhi site where farmers would often rest.</p>
+                <p>In 2019, the present generation constructed a new temple and consecrated a narmada-bāṇaliṅgam as Sri Omkareshwara Swamy on Sunday, November 3, 2019. Since then, it has become a center for anna-santarpaṇa and annual brahmotsavams conducted grandly every year up to 2024.</p>
               </div>
             ) : (
               <div>
@@ -256,7 +256,7 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>In 2025 (*viśvāvasu-nāma-saṃvatsara*), following the instructions of the current ācārya of Kanchi, Sri Sri Sri Vijayendra Saraswati (Bala Periyava), the ārādhana was established at the jīva-samādhi according to the śāstras. Since the consecration, the Saint has expressed himself through many divine plays (līlās) and is leading many devotees.</p>
+                <p>In 2025, following the instructions of the current ācārya of Kanchi, Sri Sri Sri Vijayendra Saraswati (Bala Periyava), the ārādhana was established at the jīva-samādhi according to the śāstras. Since the consecration, the Saint has expressed himself through many divine plays (līlās) and is leading many devotees.</p>
                 <p>In 2026, we resolve to expand the temple facilities, including a large yajñaśālā, a storage room, a residence for the temple priest, and bathrooms.</p>
                 <p className="highlight-quote">We seek the shelter of his lotus feet with gratitude, praying that Brahmashri Valiveru Venkatarama Bhotlu provides his special grace (anugraha) and makes our lives fulfilled.</p>
                 
