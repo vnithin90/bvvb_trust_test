@@ -139,7 +139,8 @@ export default function History() {
               <div>
                 <p>Parnapalli is a village situated on the banks of the Chitravati River in Pulivendula taluk of Kadapa district, Andhra Pradesh. In this village lived the late Sri Venkataramayya, a Brahmin of the Velanadu tradition belonging to the Gautama Gotra, bearing the family name Valiveru. A learned Vedic scholar and ritual practitioner, he sustained his family through traditional village priesthood.</p>
                 <p>The family deity (Gṛha Daiva) of the Valiveru household is Sri Lakshmi Narasimha Swamy of Doddadalavatam (Madhugiri taluk, Karnataka). At the same time, the worship of Sri Ramachandra Murthy as the cherished Iṣṭa Daiva has long been a continuing tradition within the family.</p>
-                <p>Sri Venkataramayya and his dharmapatni Smt. Chayamma were blessed with five sons and no daughters. He had two sisters — Smt. Kamakshamma and Smt. Sheshamma — and a younger brother Sri Narasayya.</p>
+                <p>Sri Venkataramayya and his dharmapatni Smt. Chayamma were blessed with five sons and no daughters. He had two sisters — Smt. Chennakishtamma and Smt. Sheshamma — and a younger brother Sri Narasayya.</p>
+                <p>In the course of time, Sri Narasayya was adopted as the son of his paternal uncle, Sri Sitaramayya.</p>
               </div>
             ) : (
               <div>
@@ -157,9 +158,9 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Sri Venkataramayya lived a life of simplicity and contentment despite material poverty. Having studied the Vedas thoroughly, he upheld the principles of Sanatana Dharma with sincerity and discipline.</p>
-                <p>His daily life followed a sacred rhythm. He performed Trikala Sandhya, morning Pañcāyatana Puja, and Abhiṣeka. During the afternoons, he would sit on the front verandah of his home and recite the Mahabharata, Bhagavata, Rāmāyaṇa, and other sacred texts, explaining their teachings to the villagers and guiding them in the Dharmic way of life.</p>
-                <p className="highlight-quote">Those who knew him often remarked — for him, Vedanta was not merely spoken but is a lived reality — his life itself was the teaching.</p>
+                <p>Sri Venkataramayya lived a life of simplicity and contentment despite material poverty. Having studied the Vedas thoroughly, he upheld the principles of Sanatana Dharma with sincerity and discipline. He performed Trikala Sandhya, morning Pañcāyatana Puja, and Abhiṣeka with total devotion.</p>
+                <p>During the afternoons, he would sit on the front verandah (arugu) of his home and recite the Mahabharata, Bhagavata, Rāmāyaṇa, and other sacred texts, explaining their teachings to the villagers. His home was always open to guests; in those days, many wandering monks and holy men would receive his hospitality for several days.</p>
+                <p className="highlight-quote">Those who knew him often remarked — for him, Vedanta was not merely spoken but was a lived reality — his life itself was the teaching.</p>
               </div>
             ) : (
               <div>
@@ -176,16 +177,15 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Smt. Chayamma passed away as a Sumaṅgali at Tadimarri village. Following her departure, Sri Venkataramayya increasingly immersed himself in spiritual contemplation.</p>
-                <p>During this time, he was blessed with the grace of the revered Jagadguru of the Kanchi Kamakoti Peetham, Sri Sri Sri Chandrasekharendra Saraswati Swamigal (Paramacharya), regarded as a living embodiment of Adi Shankara. He had the rare fortune of serving at the Acharya's feet and receiving the Padukas used by him as sacred Prasada.</p>
-                <p>When the Paramacharya gently suggested that he accept Sannyasa, Sri Venkataramayya humbly replied that his youngest son was yet to be married and therefore he could not abandon his responsibilities as a householder.</p>
+                <p>Smt. Chayamma passed away as a Sumaṅgali at Tadimarri village on April 9, 1951 (Khara Nama Samvatsara, Chaitra Shuddha Tadiya). Following her departure, Sri Venkataramayya immersed himself in spiritual contemplation. During this time, he was blessed by the Jagadguru of Kanchi Kamakoti Peetham, Sri Sri Sri Chandrasekharendra Saraswati (Periyava). He received the privilege of dining with the Sage and received his Padukas as sacred Prasada.</p>
+                <p>When suggested to accept Sannyasa, he humbly declined to fulfill his responsibilities as a householder. Notably, even though his sons settled in Hyderabad, he refused to leave the village to uphold his Dharmic duties. His fourth son and daughter-in-law remained in Parnapalli to serve him and ensure his traditional lifestyle remained undisturbed.</p>
+                <p className="highlight-quote">In his final moments, while chanting "Sri Rama," he offered himself to the feet of the Lord on November 5, 1973 (Pramadicha Nama Samvatsara, Kartika Shuddha Ekadashi) at the age of 81.</p>
               </div>
             ) : (
               <div>
-                <p>కీ.శే. కుం.సౌ. ఛాయమ్మ గారు ఐదు మంది మగసంతానమును పొంది తరువాత కొలది సంవత్సరములలోనే పసుపు కుంకుమలను వెంటనిడుకొని తాడిమర్రి గ్రామము ( ధర్మవరం తాలూకా, పుట్టపర్తి జిల్లా) నందు చివరి శ్వాసను వదిలిరి. తదనంతరము కీ.శే వేంకటరామయ్య గారు మిగిలిన శేష జీవితమును ఆధ్యాత్మిక సాధనలో కొనసాగించిరి.</p>
-                <p>ఈ కాలమందే శ్రీ కాంచీపుర పీఠాధీశ్వరులు, ఆది శంకర స్వరూపులు, నడిచే దేవుడు అని పేరుగాంచిన శ్రీశ్రీశ్రీ చంద్రశేఖరేంద్ర సరస్వతి (పెరియావ) యాతీంద్రుల పాదసేవయు, ఆనందపంక్తి భోజనము, ప్రసాదముగా ఆయన శేష వస్త్రము, ఆయన ధరించిన పాదుకలను పొందిరి. శ్రీ స్వామి వారు కీ.శే. వేంకటరామయ్య గారిని సన్యాశాశ్రమమును గైకొనుమని అడుగగా ఆయన తన ఐదవ కొడుకు వివాహము కాలేదనియు అందువలన సన్యసించుట విలుకాదనియు సుతిమెత్తగా సమాధానమిడిరి. ఈ విధముగా ఆయన తన జన్మను సార్థకము కావించుకున్నారు అని చెప్పడం నిర్వివాదాంశము.</p>
-                <p>కీ.శే. వేంకటరామయ్య గారు తన నలుగురు కొడుకులు హైదరాబాదులో స్థిర నివాసములు ఏర్పరచుకున్నప్పటికీ ఆయన సనాతన ధర్మ ఆచార వ్యవహారములను విడిచి వెళ్లక పోవడం గమనార్హం. అందువలన ఆయన నాలుగవ కుమారుడు తండ్రి, మేనత్తల సేవార్థము బడిపంతులు వృత్తిని చేపట్టి పార్లపల్లె కుగ్రామమునందే ఉండి వారి ఆచార వ్యవహారములకు భంగము కలగకుండునట్లు చివరి వరకు ఆ భార్యాభర్తలు సేవించి ధన్యులైనారు.</p>
-                <p className="highlight-quote">ఆయన తన చివరి ఘడియలలో అస్వస్థతకు గురి అయ్యి... "శ్రీరామ" నామము జపిస్తూ ప్రమాదీచ నామ సంవత్సర కార్తీక శుద్ధ ఏకాదశి సోమవారము పర్వదినమున అనగా 1973 నవంబరు 5 వ తారీకు శ్రీరామచంద్రుని పాదపద్మములకు తనను తాను సమర్పణము చేసుకొన్నారు.</p>
+                <p>కీ.శే. కుం.సౌ. ఛాయమ్మ గారు ఐదు మంది మగసంతానమును పొంది తరువాత కొలది సంవత్సరములలోనే పసుపు కుంకుమలను వెంటనిడుకొని తాడిమర్రి గ్రామమునందు ఖర నామ సంవత్సర చైత్ర శుద్ధ తదియ సోమవారము అనగా 1951 ఏప్రిల్ 9 తారీకు చివరి శ్వాసను వదిలిరి. తదనంతరము కీ.శే వేంకటరామయ్య గారు ఆధ్యాత్మిక సాధనలో కొనసాగించిరి.</p>
+                <p>ఈ కాలమందే శ్రీ కాంచీపుర పీఠాధీశ్వరులు శ్రీశ్రీశ్రీ చంద్రశేఖరేంద్ర సరస్వతి (పెరియావ) యాతీంద్రుల పాదసేవయు, ప్రసాదముగా ఆయన ధరించిన పాదుకలను పొందిరి. శ్రీ స్వామి వారు సన్యాశాశ్రమమును గైకొనుమని అడుగగా తన ఐదవ కొడుకు వివాహము కాలేదని సుతిమెత్తగా సమాధానమిడిరి.</p>
+                <p>ఆయన నాలుగవ కుమారుడు తండ్రి, మేనత్తల సేవార్థము బడిపంతులు వృత్తిని చేపట్టి పార్లపల్లె కుగ్రామమునందే ఉండి చివరి వరకు ఆ భార్యాభర్తలు సేవించి ధన్యులైనారు. ఆయన తన 81 సంవత్సరముల వయస్సులో "శ్రీరామ" నామము జపిస్తూ ప్రమాదీచ నామ సంవత్సర కార్తీక శుద్ధ ఏకాదశి సోమవారము అనగా 1973 నవంబరు 5 వ తారీకు శ్రీరామచంద్రుని పాదపద్మములకు తనను తాను సమర్పణము చేసుకొన్నారు.</p>
               </div>
             )}
           </section>
@@ -198,15 +198,15 @@ export default function History() {
             <div className="sibling-cards">
               <div className="sibling-card">
                 <h4 style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.4rem' : '1.2rem' }}>{lang === 'en' ? "Smt. Sheshamma" : "కీ.శే. శేషమ్మ"}</h4>
-                <p>{lang === 'en' ? "Widowed young, she spent her life in her brother's home immersed in the remembrance of Sri Rama, attaining Sivaikya one week before Venkataramayya." : "బాల్య వివాహము కాగా చిన్న వయసులోనే వైధవ్యమును పొంది కీ.శే. వేంకటరామయ్య గారి ఇంటియందే చివరి క్షణంవరకు శ్రీరామ చంద్రుల వారి స్మరణ యందే గడిపి కీ.శే. వేంకటరామయ్యగారి కంటే వారం రోజులు ముందు ప్రమాదీచ నామ సంవత్సర కార్తీక శుద్ధ తదియ సోమవారము 1973 అక్టోబరు 23వ తారీకున శివైక్యము చెంది ఉన్నారు."}</p>
+                <p>{lang === 'en' ? "Widowed at a young age, she spent her life in her brother's home immersed in Rama Smarana. She attained Shivaikya on October 23, 1973 (Pramadicha Nama Samvatsara, Kartika Shuddha Tadiya), just one week before Venkataramayya." : "బాల్య వివాహము కాగా చిన్న వయసులోనే వైధవ్యమును పొంది కీ.శే. వేంకటరామయ్య గారి ఇంటియందే చివరి క్షణంవరకు శ్రీరామ చంద్రుల వారి స్మరణ యందే గడిపి కీ.శే. వేంకటరామయ్యగారి కంటే వారం రోజులు ముందు ప్రమాదీచ నామ సంవత్సర కార్తీక శుద్ధ తదియ సోమవారము 1973 అక్టోబరు 23వ తారీకున శివైక్యము చెంది ఉన్నారు."}</p>
               </div>
               <div className="sibling-card">
                 <h4 style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.4rem' : '1.2rem' }}>{lang === 'en' ? "Smt. Kamakshamma" : "కీ.శే. కుం.సౌ. కామాక్షమ్మ"}</h4>
-                <p>{lang === 'en' ? "Married Sri Pedda Vishwanatha Sharma; mother of Sri Bala Vishwanatha Sharma, a Sanskrit scholar at Sri Sathya Sai College." : "అనంతపూర్ వాస్తవ్యుడు కీ.శే. మొదలి. విశ్వనాథ శర్మ గారిని వివాహము చేసుకొని కీ.శే. బాల విశ్వనాథ శర్మ (సంస్కృత పండితులు, సత్య సాయి కాలేజ్, అనంతపురం) గారికి జన్మనిచ్చి కాలాంతరమున సుమంగళిగా జీవితమును చాలించినారు."}</p>
+                <p>{lang === 'en' ? "Married Sri Modali Vishwanatha Sharma of Anantapur. She gave birth to Sri Bala Vishwanatha Sharma, a renowned Sanskrit scholar at Sri Sathya Sai College." : "అనంతపూర్ వాస్తవ్యుడు కీ.శే. మొదలి. విశ్వనాథ శర్మ గారిని వివాహము చేసుకొని కీ.శే. బాల విశ్వనాథ శర్మ (సంస్కృత పండితులు, సత్య సాయి కాలేజ్, అనంతపురం) గారికి జన్మనిచ్చి కాలాంతరమున సుమంగళిగా జీవితమును చాలించినారు."}</p>
               </div>
               <div className="sibling-card">
-                <h4 style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.4rem' : '1.2rem' }}>{lang === 'en' ? "Sri Narasayya" : "కీ.శే. నรసయ్యగారు"}</h4>
-                <p>{lang === 'en' ? "The younger brother of Venkataramayya, he pursued a teaching career and eventually settled in Bengaluru." : "వైదిక సనాతన ధర్మములు విడువక నే లౌకికమునందు అధ్యాపక వృత్తిని చేపట్టి అనంతపురం జిల్లా, ధర్మవరం పట్టణమున ప్రభుత్వ పాఠశాలలో పనిచేసి పదవీ విరమణ చేశాక వారి పిల్లలతో బెంగుళూరులో స్థిరనివాసము ఏర్పరచుకొని సనాతన ధర్మ జీవితమును సాగించి కాలాంతరమున అక్షయ నామ సంవత్సర ఆశ్వీజ బహుళ పాడ్యమి అనగా 1986 అక్టోబరు 18వ తారీకున శివైక్యము చెంది ఉన్నారు."}</p>
+                <h4 style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '1.4rem' : '1.2rem' }}>{lang === 'en' ? "Sri Narasayya" : "కీ.శే. నరసయ్యగారు"}</h4>
+                <p>{lang === 'en' ? "Following Vedic traditions even in worldly life, he served as a teacher in Dharmavaram. He later settled in Bengaluru and attained Shivaikya on October 18, 1986 (Akshaya Nama Samvatsara, Ashwayuja Bahula Padyami)." : "వైదిక సనాతన ధర్మములు విడువక నే లౌకికమునందు అధ్యాపక వృత్తిని చేపట్టి అనంతపురం జిల్లా, ధర్మవరం పట్టణమున పనిచేసి పదవీ విరమణ చేశాక బెంగుళూరులో స్థిరనివాసము ఏర్పరచుకొని 1986 అక్టోబరు 18వ తారీకున శివైక్యము చెంది ఉన్నారు."}</p>
               </div>
             </div>
           </section>
@@ -218,13 +218,13 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>The lineage traces back to Brahmashri Valiveru Venkatarama Bhotlu. Although he lived as a householder, Venkatarama Bhotlu attained deep detachment (Vairāgya) and became firmly established in the realization of Brahman.</p>
-                <p className="highlight-quote">Venkatarama Bhotlu entered Sajīva Samādhi on the banks of the Chitravati River on the sacred day of Mārgaśīrṣa Śuddha Vidiyā.</p>
-                <p>Since he had no children, he adopted Chinna Narasayya, thereby continuing the lineage. From that time onward, the study of the Vedas and Vedāṅgas continued as a living tradition within the family.</p>
+                <p>The lineage traces back to Brahmashri Valiveru Venkatarama Bhotlu, the son of late Sri Chinna Narasayya. Since he had no biological children, he adopted Chinna Narasayya (the son of his brother late Ashwatthamayya) to continue the sacred lineage.</p>
+                <p className="highlight-quote">Despite being a householder, Venkatarama Bhotlu attained intense detachment (Vairagya) and became a Jivanmukta, entering Sajiva Samadhi on the opposite bank of the Chitravati River on Margasira Shuddha Vidiya.</p>
+                <p>Following his Samadhi, the tradition of Vedic study (Veda Adhyayana) has been preserved in every generation of the Valiveru clan.</p>
               </div>
             ) : (
               <div>
-                <p>కీ.శే. వేంకటరామయ్య గారి తండ్రి కీ.శే.లక్ష్మీ నరసయ్య గారు. వీరు ముగ్గురు అన్నదమ్ములు. కీ.శే. లక్ష్మీ నరసయ్య గారి తండ్రి గారు కీ.శే. చిన్న నరసయ్య గారు. బ్రహ్మశ్రీ. వలివేరు వేంకటరామా బొట్లు గారు తనకు సంతానము లేకపోవడం వలన తన సోదరుడు కీ.శే. అశ్వత్థమయ్య గారి చిన్న కుమారుడు అయిన కీ.శే. చిన్న నరసయ్య గారిని దత్తు తీసుకున్నారు.</p>
+                <p>కీ.శే. వేంకటరామయ్య గారి తండ్రి కీ.శే.లక్ష్మీ నరసయ్య గారు. కీ.శే. లక్ష్మీ నరసయ్య గారి తండ్రి గారు కీ.శే. చిన్న నరసయ్య గారు. బ్రహ్మశ్రీ. వలివేరు వేంకటరామా బొట్లు గారు తనకు సంతానము లేకపోవడం వలన తన సోదరుడు కీ.శే. అశ్వత్థమయ్య గారి చిన్న కుమారుడు అయిన కీ.శే. చిన్న నరసయ్య గారిని దత్తు తీసుకున్నారు.</p>
                 <p className="highlight-quote">బ్రహ్మశ్రీ వలివేరు వేంకటరామా బొట్లు గారు గృహస్థు అయినప్పటికీ తీవ్ర వైరాగ్యమును పొంది, బ్రహ్మనిష్ఠుడై జీవన్ముక్త స్థితిని పొంది పార్లపల్లె గ్రామ చిత్రావతి నది ఆవలి ఒడ్డున మార్గశీర్ష శుద్ధ విదియ నాడు సజీవ సమాధిని పొంది ఉన్నారు.</p>
                 <p>ఆ తర్వాత కాలమున వలివేరు వంశమున ప్రతి తరమునందును వేదవేదాంగముల అధ్యయనము అధ్యాపనము చేయుట పరిపాటిగా ఉండినది.</p>
               </div>
@@ -238,15 +238,14 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>In 2019, the present generation constructed a temple at the samadhi site and installed a Narmada Bāṇaliṅgam as Sri Omkareshwara Swamy on Kārtika Śuddha Saptami.</p>
-                <p>Since then, the temple has become a center of spiritual activity, with regular worship and Anna Santarpaṇa. Situated on the Anantapur-Kadapa highway, the shrine has gained great prominence.</p>
+                <p>It is significant that Sri Lakshmi Narasayya, the fourth son of Sri Venkataramayya, was born on the sacred day of Margasira Shuddha Vidiya. For generations, the Samadhi was marked by a simple raised platform where farmers rested.</p>
+                <p>The present generation constructed a new temple and consecrated Sri Omkareshwara Swamy (a Narmada Banalingam) on Sunday, November 3, 2019 (Vikari Nama Samvatsara, Kartika Shuddha Saptami). Until 2024 (Krodhi Nama Samvatsara), Brahmotsavams were celebrated grandly every year on Margasira Shuddha Vidiya.</p>
               </div>
             ) : (
               <div>
                 <p>విశేషం ఏమిటంటే కీ.శే. వేంకటరామయ్య గారి నాలుగవ కుమారుడు కీ.శే. లక్ష్మీ నరసయ్య గారు మార్గశిర శుద్ధ విదియ నాడు జన్మించడమే.</p>
-                <p>ఐదవ తరము వారు గుర్తించునప్పటికి జీవ సమాధిని పొందిన చోట ఎత్తుగా ఒక అరుగు నిర్మించబడి ఉండినది. కీ.శే. వేంకటరామయ్య గారి 4వ కుమారుడు కీ.శే. లక్ష్మీ నరసయ్య గారి కాలమున వారు కొంత రొక్కమును వెచ్చించి ఆ సమాధి అరుగును బాగు చేయించి నారు.</p>
                 <p>నూతనముగా ఆలయమును నిర్మించి, అందు ఓంకారేశ్వర స్వామిని (నర్మదా బాణలింగమును) స్వస్తిశ్రీ వికారినామ సంవత్సర కార్తీక శుద్ధ సప్తమి అనగా 03.11.2019 భానువారము ప్రతిష్టను చేసి, ఇప్పటికీ పూజాదికములు నిర్వహించడం జరుగుతున్నది.</p>
-                <p>ఈ దేవాలయము అనంతపురం కడప హైవే మీద ఉండడం వలన బహుళ ప్రాచుర్యమును పొంది, ఎంతోమంది దేవాలయమును సందర్శించి, ఎన్నో రకములైన కోర్కెలను ఈడేర్చుకొనుచున్నారు.</p>
+                <p>స్వస్తిశ్రీ క్రోధి నామ సంవత్సరము వరకు అనగా క్రి.శ. 2024 వరకు ప్రతి సంవత్సరము మార్గశిర శుద్ధ విదియ నాడు ఆలయ బ్రహ్మోత్సవములు గా గొప్పగా నిర్వహింపబడుచుండెడివి.</p>
               </div>
             )}
           </section>
@@ -258,11 +257,9 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>In 2025, following the instructions of the current Acharya of the Kanchi Kamakoti Peetham, Sri Sri Sri Vijayendra Saraswati Swamigal (Bala Periyava), the Aradhana began to be conducted strictly according to scriptural tradition.</p>
-                <p>In 2026, we resolve to expand the temple facilities, including a Yajñaśālā and residential quarters for the priest.</p>
-                <p className="highlight-quote">Seeking his Anugraha so that our lives may find fulfillment at his sacred feet.</p>
+                <p>In 2025 (Vishvavasu Nama Samvatsara), following the instructions of Sri Sri Sri Vijayendra Saraswati (Bala Periyava), scriptural Aradhana was established at the Jiva Samadhi. Inspired by the many miracles (Leelas) of the Saint, we, the sixth generation, have undertaken an expansion project in 2026.</p>
+                <p>This includes the construction of a large Yagnashala, priest quarters, and pilgrim facilities. We seek the shelter of his lotus feet, praying that his special grace leads us and fulfills the purpose of our lives.</p>
                 
-                {/* Final Shloka Block */}
                 <div style={{ marginTop: '40px', padding: '30px', background: '#fff9e6', border: '2px solid #f1c40f', borderRadius: '15px', textAlign: 'center', boxShadow: '0 4px 15px rgba(0,0,0,0.05)' }}>
                   <p style={{ fontSize: '1.4rem', color: '#3d2b1f', fontWeight: 'bold', marginBottom: '10px' }}>
                     “यत्र समाधिस्थो महायोगी, तत्र शिवानुग्रहः नित्यः प्रवहति ॥”
@@ -274,14 +271,13 @@ export default function History() {
               </div>
             ) : (
               <div>
-                <p>2025 లో శ్రీ కాంచీపుర పీఠాధీశ్వరులు శ్రీశ్రీశ్రీ విజయేంద్ర సరస్వతి (బాల పెరియావ) యాతీంద్రుల సూచనలను అనుసరించి వారు సెలవిచ్చిన విధముగా ఆరాధనను జీవ సమాధి వద్ద శాస్త్రోక్తముగా, శ్రద్ధతో నిర్వహించగలగడము యెల్లరకు ముదావహము.</p>
-                <p>బ్రహ్మశ్రీ వలివేరు వేంకటరామా బొట్లు గారి ఆరవ తరమువారైన మేము 2026 సంవత్సరమున భక్తులకు సదుపాయములు కల్పించ వలెనని నిశ్చయించి ఆలయము ప్రక్కనే ఒక పెద్ద యజ్ఞశాల, వస్తువులను భద్రపరచే గది, ఆలయ పూజారికి వసతి గృహము, స్నానగదులు నిర్మించ తలపెట్టి కార్యక్రమమునకు పూనుకొనుచున్నాము.</p>
-                <p className="highlight-quote">ఈ కార్యక్రమమునకు బ్రహ్మశ్రీ వలివేరు వేంకటరామా బొట్లు గారు సకలవిధముల మావెంటఉండి, మమ్మల్ని నడిపించాలని సదా ఆయన పాద పద్మములను కృతజ్ఞతా భావముతో ఆశ్రయించుచున్నాము.</p>
+                <p>2025 లో శ్రీ కాంచీపుర పీఠాధీశ్వరులు శ్రీశ్రీశ్రీ విజయేంద్ర సరస్వతి (బాల పెరియావ) యాతీంద్రుల సూచనలను అనుసరించి ఆరాధనను జీవ సమాధి వద్ద శాస్త్రోక్తముగా నిర్వహించగలగడము యెల్లరకు ముదావహము.</p>
+                <p>ఆరవ తరమువారైన మేము 2026 సంవత్సరమున ఒక పెద్ద యజ్ఞశాల, వస్తువులను భద్రపరచే గది, ఆలయ పూజారికి వసతి గృహము నిర్మించ తలపెట్టి కార్యక్రమమునకు పూనుకొనుచున్నాము.</p>
+                <p className="highlight-quote">ఈ కార్యక్రమమునకు బ్రహ్మశ్రీ వలివేరు వేంకటరామా బొట్లు గారు సకలవిధముల మావెంటఉండి, మమ్మల్ని నడిపించి మా జన్మలు కృతార్థమొనరింప వలెనని సదా ఆయన పాద పద్మములను ఆశ్రయించుచున్నాము.</p>
                 
-                {/* Final Shloka Block (Telugu) */}
                 <div style={{ marginTop: '40px', padding: '30px', background: '#fff9e6', border: '2px solid #f1c40f', borderRadius: '15px', textAlign: 'center', boxShadow: '0 4px 15px rgba(0,0,0,0.05)' }}>
                   <p style={{ fontSize: '1.5rem', color: '#3d2b1f', fontWeight: 'bold', marginBottom: '10px' }}>
-                    “యత్ర సమాధిస్థో మహాయోగీ, తత్ర శివానుగ్రహః నిత్యః ప్రవహతి ॥”
+                    “యత్ర సమాధిస్థో మహాయోగీ, తత్ర శివానుग्रहః నిత్యః ప్రవహతి ॥”
                   </p>
                   <p style={{ fontSize: '1.2rem', color: '#555' }}>
                     మహాయోగి జీవసమాధిలో ఉన్నచోట, శివుని అనుగ్రహం నిత్యం ప్రవహిస్తుంది.
@@ -298,7 +294,7 @@ export default function History() {
             </p>
             <p>
               {lang === 'en' 
-                ? 'Omkara Kshetram, Paarnapalli Village, Kadapa District, Andhra Pradesh — 516396' 
+                ? 'Omkara Kshetram, Parnapalli Village, Kadapa District, Andhra Pradesh — 516396' 
                 : 'ఓంకార క్షేత్రము, పార్నపల్లి గ్రామము, లింగాల మండలము, కడప జిల్లా, ఆంధ్రప్రదేశ్, పిన్ కోడ్: 516396'}
             </p>
           </div>
@@ -312,8 +308,8 @@ export default function History() {
             <h4 style={{ ...currentHeaderFont, color: 'white', marginBottom: '20px' }}>{lang === 'en' ? 'About Seva Trust' : 'సేవా ట్రస్ట్ గురించి'}</h4>
             <p style={{ fontSize: '0.9rem', lineHeight: '1.6', textAlign: 'justify' }}>
               {lang === 'en' 
-                ? 'Dedicated to the sacred service of Sri Omkareswara Swamy Temple, Paarnapalli. The Trust preserves temple traditions, promotes Sanatana Dharma, and serves devotees and seekers.' 
-                : 'పార్నపల్లిలోని శ్రీ ఓంకారేశ్వర స్వామి ఆలయ అభివృద్ధికి మరియు పవిత్ర సేవకు అంకితం చేయబడింది. సనాతన ధర్మ ప్రచారానికి మరియు ముముక్షువుల శ్రేయస్సుకు ఈ సంస్థ కృషి చేస్తుంది.'}
+                ? 'Dedicated to the sacred service of Sri Omkareswara Swamy Temple, Parnapalli. The Trust preserves temple traditions, promotes Sanatana Dharma, and serves devotees.' 
+                : 'పార్నపల్లిలోని శ్రీ ఓంకారేశ్వర స్వామి ఆలయ అభివృద్ధికి మరియు పవిత్ర సేవకు అంకితం చేయబడింది. సనాతన ధర్మ ప్రచారానికి ఈ సంస్థ కృషి చేస్తుంది.'}
             </p>
             <p style={{ fontSize: '0.9rem', fontWeight: 'bold', marginTop: '15px' }}>Reg. No.: 13/2026</p>
           </div>
@@ -321,22 +317,21 @@ export default function History() {
             <h4 style={{ ...currentHeaderFont, color: 'white', marginBottom: '20px' }}>{lang === 'en' ? 'Quick Links' : 'త్వరిత లింకులు'}</h4>
             <ul style={{ listStyle: 'none', padding: 0, fontSize: '0.9rem' }}>
               {['Invocation', 'Roots', 'Vision'].map((link, idx) => (
-                <li key={idx} style={{marginBottom: '8px'}}><button onClick={() => scrollTo(link.toLowerCase())} style={{background: 'none', border: 'none', color: '#f5f5f5', cursor: 'pointer'}}>{link}</button></li>
+                <li key={idx} style={{marginBottom: '8px'}}><button onClick={() => scrollTo(link.toLowerCase())} style={{background: 'none', border: 'none', color: '#f5f5f5', cursor: 'pointer', textDecoration: 'underline'}}>{link}</button></li>
               ))}
             </ul>
           </div>
           <div className="footer-col">
             <h4 style={{ ...currentHeaderFont, color: 'white', marginBottom: '20px' }}>{lang === 'en' ? 'Connect With Us' : 'మమ్మల్ని అనుసరించండి'}</h4>
             <div style={{ display: 'flex', gap: '15px' }}>
-               {['FB', 'IG', 'X', 'YT', 'IN'].map(icon => (
+               {['FB', 'IG', 'X', 'YT'].map(icon => (
                  <div key={icon} style={{ width: '35px', height: '35px', borderRadius: '50%', background: 'rgba(255,255,255,0.1)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '0.8rem' }}>{icon}</div>
                ))}
             </div>
           </div>
         </div>
         <div style={{ maxWidth: '1200px', margin: '40px auto 0', borderTop: '1px solid rgba(255,255,255,0.1)', paddingTop: '20px', textAlign: 'center', fontSize: '0.85rem', color: '#bdc3c7' }}>
-          <p>© 2026 Brahmashri Valiveru VenkataRama Bhotulu Trust. {lang === 'en' ? 'All rights reserved.' : 'సర్వ హక్కులు ప్రత్యేకించబడినవి.'}</p>
-          <p style={{marginTop: '10px'}}><span style={{color: 'orange', cursor: 'pointer'}}>Privacy Policy</span> | <span style={{color: 'orange', cursor: 'pointer'}}>Terms of Service</span></p>
+          <p>© 2026 Brahmashri Valiveru VenkataRama Bhotlu Trust. {lang === 'en' ? 'All rights reserved.' : 'సర్వ హక్కులు ప్రత్యేకించబడినవి.'}</p>
         </div>
       </footer>
     </main>
