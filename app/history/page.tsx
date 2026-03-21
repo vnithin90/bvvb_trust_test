@@ -137,9 +137,9 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Parnapalli is a village situated on the banks of the Chitravati River in Pulivendula taluk of Kadapa district, Andhra Pradesh. In this village lived the late Sri Venkataramayya, a **brāhmaṇa** of the **śrotriya**, **vaidika**, and **velanāṭi** tradition belonging to the **gautama-gotra**, bearing the family name **Valiveru**. A learned Vedic scholar and ritual practitioner, he sustained his family through traditional village priesthood (**grāma-pauhitya**).</p>
-                <p>The family deity (**gṛha-daiva**) of the Valiveru household is Sri Lakshmi Narasimha Swamy of Doddadalavatam (Madhugiri taluk, Karnataka). At the same time, the worship of Sri Ramachandra Murthy as the cherished **iṣṭa-daiva** has long been a continuing tradition within the family.</p>
-                <p>Sri Venkataramayya and his **dharmapatni** Smt. Chayamma were blessed with five sons and no daughters. He had two elder sisters — Smt. Chennakishtamma and Smt. Sheshamma — and a younger brother, Sri Narasayya. In the course of time, Sri Narasayya was adopted as the son of his paternal uncle, Sri Sitaramayya.</p>
+                <p>Parnapalli is a village situated on the banks of the Chitravati River in Pulivendula taluk of Kadapa district, Andhra Pradesh. In this village lived the late Sri Venkataramayya, a brāhmaṇa of the śrotriya, vaidika, and velanāṭi tradition belonging to the gautama-gotra, bearing the family name Valiveru. A learned Vedic scholar and ritual practitioner, he sustained his family through traditional village priesthood (grāma-pauhitya).</p>
+                <p>The family deity (gṛha-daiva) of the Valiveru household is Sri Lakshmi Narasimha Swamy of Doddadalavatam (Madhugiri taluk, Karnataka). At the same time, the worship of Sri Ramachandra Murthy as the cherished iṣṭa-daiva has long been a continuing tradition within the family.</p>
+                <p>Sri Venkataramayya and his dharmapatni Smt. Chayamma were blessed with five sons and no daughters. He had two elder sisters — Smt. Chennakishtamma and Smt. Sheshamma — and a younger brother, Sri Narasayya. In the course of time, Sri Narasayya was adopted as the son of his paternal uncle, Sri Sitaramayya.</p>
               </div>
             ) : (
               <div>
@@ -156,9 +156,9 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Sri Venkataramayya lived a life of simplicity and contentment despite material poverty. Having studied the **vedās** thoroughly (**sāṅgopāṅga**), he upheld the principles of **sanātana-dharma** with sincerity and discipline. He performed **trikāla-sandhyā**, morning **pañcāyatana-pūjā**, and **abhiṣeka** with total devotion.</p>
-                <p>During the afternoons, he would sit on the front verandah (*arugu*) of his home and recite the *Bhārata*, *Bhāgavata*, *Rāmāyaṇa*, and other sacred texts, explaining their teachings to the villagers. His home was always open to guests (**atithi**); in those days, many wandering monks and holy men (**mahātmās**) travelled on foot through the region, and several among them would stay for days in his home and receive his hospitality.</p>
-                <p className="highlight-quote">Those who knew him often remarked that there was no **vedānta** in him that was not lived in practice; his life itself was the teaching.</p>
+                <p>Sri Venkataramayya lived a life of simplicity and contentment despite material poverty. Having studied the vedās thoroughly (sāṅgopāṅga), he upheld the principles of sanātana-dharma with sincerity and discipline. He performed trikāla-sandhyā, morning pañcāyatana-pūjā, and abhiṣeka with total devotion.</p>
+                <p>During the afternoons, he would sit on the front verandah (*arugu*) of his home and recite the *Bhārata*, *Bhāgavata*, *Rāmāyaṇa*, and other sacred texts, explaining their teachings to the villagers. His home was always open to guests (atithi); in those days, many wandering monks and holy men (mahātmās) travelled on foot through the region, and several among them would stay for days in his home and receive his hospitality.</p>
+                <p className="highlight-quote">Those who knew him often remarked that there was no vedānta in him that was not lived in practice; his life itself was the teaching.</p>
               </div>
             ) : (
               <div>
@@ -175,9 +175,9 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Smt. Chayamma passed away on Monday, April 9, 1951 (*khara-nāma-saṃvatsara, caitra-śuddha-tadiya*), taking her **pasupu-kuṅkuma** with her. Following her departure, Sri Venkataramayya increasingly immersed himself in spiritual contemplation (**ādhyātmika-sādhana**).</p>
-                <p>During this time, he was blessed with the grace of the revered **jagadguru** of the Kanchi Kamakoti Peetham, Sri Sri Sri Chandrasekharendra Saraswati (**Periyava**), regarded as a living embodiment of Adi Shankara. He had the rare fortune of serving at the **ācārya’s** feet, partaking in meals in his presence (**ānanda-paṅkti-bhojana**), and receiving the **śeṣa-vastra** and the **pādukās** used by him as sacred **prasāda**.</p>
-                <p>When the **ācārya** suggested that he accept **saṃnyāsa**, he humbly declined to fulfill his responsibilities as a householder (**gṛhastha**). While his four sons settled in Hyderabad, he remained in Parnapalli to uphold his **dhārmic** customs. His fourth son and daughter-in-law remained to serve him until the end.</p>
+                <p>Smt. Chayamma passed away on Monday, April 9, 1951 (*khara-nāma-saṃvatsara, caitra-śuddha-tadiya*), taking her pasupu-kuṅkuma with her. Following her departure, Sri Venkataramayya increasingly immersed himself in spiritual contemplation (ādhyātmika-sādhana).</p>
+                <p>During this time, he was blessed with the grace of the revered jagadguru of the Kanchi Kamakoti Peetham, Sri Sri Sri Chandrasekharendra Saraswati (Periyava), regarded as a living embodiment of Adi Shankara. He had the rare fortune of serving at the ācārya’s feet, partaking in meals in his presence (ānanda-paṅkti-bhojana), and receiving the śeṣa-vastra and the pādukās used by him as sacred prasāda.</p>
+                <p>When the ācārya suggested that he accept saṃnyāsa, he humbly declined to fulfill his responsibilities as a householder (gṛhastha). While his four sons settled in Hyderabad, he remained in Parnapalli to uphold his dhārmic customs. His fourth son and daughter-in-law remained to serve him until the end.</p>
                 <p className="highlight-quote">At the age of 81, while chanting "Sri Rama," he offered himself to the feet of the Lord on Monday, November 5, 1973 (*pramādīca-nāma-saṃvatsara, kārtika-śuddha-ekādaśī*).</p>
               </div>
             ) : (
@@ -217,9 +217,9 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>The lineage traces back to **Brahmashri Valiveru Venkatarama Bhotlu**, son of late Sri Chinna Narasayya. Since he had no children, he adopted Chinna Narasayya (the son of his brother Sri Ashwatthamayya). Although he lived as a householder, Venkatarama Bhotlu attained deep detachment (**vairāgya**) and became a **brahma-niṣṭha**.</p>
-                <p className="highlight-quote">Venkatarama Bhotlu entered **sajīva-samādhi** on the opposite bank of the Chitravati River on the sacred day of **mārgaśīrṣa-śuddha-vidiyā**.</p>
-                <p>From the family genealogy (**vaṃśavṛkṣa**) documented by Sri Lakshmi Narasayya, we are known as the fifth and sixth generations. Since then, the study and teaching of the **vedās** and **vedāṅgās** has continued as a living tradition within the family.</p>
+                <p>The lineage traces back to Brahmashri Valiveru Venkatarama Bhotlu, son of late Sri Chinna Narasayya. Since he had no children, he adopted Chinna Narasayya (the son of his brother Sri Ashwatthamayya). Although he lived as a householder, Venkatarama Bhotlu attained deep detachment (vairāgya) and became a brahma-niṣṭha.</p>
+                <p className="highlight-quote">Venkatarama Bhotlu entered sajīva-samādhi on the opposite bank of the Chitravati River on the sacred day of mārgaśīrṣa-śuddha-vidiyā.</p>
+                <p>From the family genealogy (vaṃśavṛkṣa) documented by Sri Lakshmi Narasayya, we are known as the fifth and sixth generations. Since then, the study and teaching of the vedās and vedāṅgās has continued as a living tradition within the family.</p>
               </div>
             ) : (
               <div>
@@ -237,8 +237,8 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>Sri Lakshmi Narasayya (the fourth son of Sri Venkataramayya) was born on the same sacred day of **mārgaśīrṣa-śuddha-vidiyā**. During his time, he used his own resources to repair the stone platform (*arugu*) at the **samādhi** site where farmers would often rest.</p>
-                <p>In 2019, the present generation constructed a new temple and consecrated a **narmada-bāṇaliṅgam** as Sri Omkareshwara Swamy on Sunday, November 3, 2019 (*vikāri-nāma-saṃvatsara, kārtika-śuddha-saptami*). Since then, it has become a center for **anna-santarpaṇa** and annual **brahmotsavams** conducted grandly every year up to 2024 (*krodhi-nāma-saṃvatsara*).</p>
+                <p>Sri Lakshmi Narasayya (the fourth son of Sri Venkataramayya) was born on the same sacred day of mārgaśīrṣa-śuddha-vidiyā. During his time, he used his own resources to repair the stone platform (*arugu*) at the samādhi site where farmers would often rest.</p>
+                <p>In 2019, the present generation constructed a new temple and consecrated a narmada-bāṇaliṅgam as Sri Omkareshwara Swamy on Sunday, November 3, 2019 (*vikāri-nāma-saṃvatsara, kārtika-śuddha-saptami*). Since then, it has become a center for anna-santarpaṇa and annual brahmotsavams conducted grandly every year up to 2024 (*krodhi-nāma-saṃvatsara*).</p>
               </div>
             ) : (
               <div>
@@ -256,9 +256,9 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>In 2025 (*viśvāvasu-nāma-saṃvatsara*), following the instructions of the current **ācārya** of Kanchi, Sri Sri Sri Vijayendra Saraswati (**Bala Periyava**), the **ārādhana** was established at the **jīva-samādhi** according to the **śāstras**. Since the consecration, the Saint has expressed himself through many divine plays (**līlās**) and is leading many devotees.</p>
-                <p>In 2026, we resolve to expand the temple facilities, including a large **yajñaśālā**, a storage room, a residence for the temple priest, and bathrooms.</p>
-                <p className="highlight-quote">We seek the shelter of his lotus feet with gratitude, praying that Brahmashri Valiveru Venkatarama Bhotlu provides his special grace (**anugraha**) and makes our lives fulfilled.</p>
+                <p>In 2025 (*viśvāvasu-nāma-saṃvatsara*), following the instructions of the current ācārya of Kanchi, Sri Sri Sri Vijayendra Saraswati (Bala Periyava), the ārādhana was established at the jīva-samādhi according to the śāstras. Since the consecration, the Saint has expressed himself through many divine plays (līlās) and is leading many devotees.</p>
+                <p>In 2026, we resolve to expand the temple facilities, including a large yajñaśālā, a storage room, a residence for the temple priest, and bathrooms.</p>
+                <p className="highlight-quote">We seek the shelter of his lotus feet with gratitude, praying that Brahmashri Valiveru Venkatarama Bhotlu provides his special grace (anugraha) and makes our lives fulfilled.</p>
                 
                 <div style={{ marginTop: '40px', padding: '30px', background: '#fff9e6', border: '2px solid #f1c40f', borderRadius: '15px', textAlign: 'center', boxShadow: '0 4px 15px rgba(0,0,0,0.05)' }}>
                   <p style={{ fontSize: '1.4rem', color: '#3d2b1f', fontWeight: 'bold', marginBottom: '10px' }}>
