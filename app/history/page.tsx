@@ -81,7 +81,7 @@ export default function History() {
         <div className="history-hero-content">
           <p className="history-sanskrit">{lang === 'en' ? 'oṁ śrī gurubhyo namaḥ' : 'ఓం శ్రీ గురుభ్యోనమః'}</p>
           <h1 style={{ ...currentHeaderFont, fontSize: lang === 'te' ? '3.0rem' : '2.5rem' }}>
-            {lang === 'en' ? 'Brahmashri Valiveru Venkatarama Bhotlu' : 'బ్రహ్మశ్రీ వలివేరు వేంకటరామా భొట్లు'}
+            {lang === 'en' ? 'Brahmasri  Valiveru Venkatarama Bhotlu' : 'బ్రహ్మశ్రీ వలివేరు వేంకటరామా భొట్లు'}
           </h1>
           <p className="history-epithet">
             {lang === 'en' ? 'The Jivanmukta of the Valiveru Lineage' : '"వలివేరు వంశాన జీవన్ముక్తుడు - బ్రహ్మశ్రీ వలివేరు వేంకటరామా భొట్లు"'}
@@ -217,7 +217,7 @@ export default function History() {
             </h2>
             {lang === 'en' ? (
               <div>
-                <p>The lineage traces back to Brahmashri Valiveru Venkatarama Bhotlu, son of late Sri Chinna Narasayya. Since he had no children, he adopted Chinna Narasayya (the son of his brother Sri Ashwatthamayya). Although he lived as a householder, Venkatarama Bhotlu attained deep detachment (vairāgya) and became a brahma-niṣṭha.</p>
+                <p>The lineage traces back to Brahmasri  Valiveru Venkatarama Bhotlu, son of late Sri Chinna Narasayya. Since he had no children, he adopted Chinna Narasayya (the son of his brother Sri Ashwatthamayya). Although he lived as a householder, Venkatarama Bhotlu attained deep detachment (vairāgya) and became a brahma-niṣṭha.</p>
                 <p className="highlight-quote">Venkatarama Bhotlu entered sajīva-samādhi on the opposite bank of the Chitravati River on the sacred day of mārgaśīrṣa-śuddha-vidiyā.</p>
                 <p>From the family genealogy (vaṃśavṛkṣa) documented by Sri Lakshmi Narasayya, we are known as the fifth and sixth generations. Since then, the study and teaching of the vedās and vedāṅgās has continued as a living tradition within the family.</p>
               </div>
@@ -258,7 +258,7 @@ export default function History() {
               <div>
                 <p>In 2025, following the instructions of the current ācārya of Kanchi, Sri Sri Sri Vijayendra Saraswati (Bala Periyava), the ārādhana was established at the jīva-samādhi according to the śāstras. Since the consecration, the Saint has expressed himself through many divine plays (līlās) and is leading many devotees.</p>
                 <p>In 2026, we resolve to expand the temple facilities, including a large yajñaśālā, a storage room, a residence for the temple priest, and bathrooms.</p>
-                <p className="highlight-quote">We seek the shelter of his lotus feet with gratitude, praying that Brahmashri Valiveru Venkatarama Bhotlu provides his special grace (anugraha) and makes our lives fulfilled.</p>
+                <p className="highlight-quote">We seek the shelter of his lotus feet with gratitude, praying that Brahmasri  Valiveru Venkatarama Bhotlu provides his special grace (anugraha) and makes our lives fulfilled.</p>
                 
                 <div style={{ marginTop: '40px', padding: '30px', background: '#fff9e6', border: '2px solid #f1c40f', borderRadius: '15px', textAlign: 'center', boxShadow: '0 4px 15px rgba(0,0,0,0.05)' }}>
                   <p style={{ fontSize: '1.4rem', color: '#3d2b1f', fontWeight: 'bold', marginBottom: '10px' }}>
@@ -331,7 +331,7 @@ export default function History() {
           </div>
         </div>
         <div style={{ maxWidth: '1200px', margin: '40px auto 0', borderTop: '1px solid rgba(255,255,255,0.1)', paddingTop: '20px', textAlign: 'center', fontSize: '0.85rem', color: '#bdc3c7' }}>
-          <p>© 2026 Brahmashri Valiveru VenkataRama Bhotlu Trust. {lang === 'en' ? 'All rights reserved.' : 'సర్వ హక్కులు ప్రత్యేకించబడినవి.'}</p>
+          <p>© 2026 Brahmasri  Valiveru VenkataRama Bhotlu Trust. {lang === 'en' ? 'All rights reserved.' : 'సర్వ హక్కులు ప్రత్యేకించబడినవి.'}</p>
         </div>
       </footer>
     </main>
